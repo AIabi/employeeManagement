@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EmployeemanagementApplication",
+            "request": "launch",
+            "mainClass": "demo.sc.employeeManagemet.employeemanagement.EmployeemanagementApplication"
+        }
+    ]
+}
