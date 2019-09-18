@@ -1,0 +1,13 @@
+.registrationForm {
+width: 24%
+}
+.containers{
+    background-image: url('../../assets/office.jpg');
+    background-position: right;
+    background-origin: unset;
+    backface-visibility: visible;
+    background-attachment: fixed;
+    background-position-x: -454%;
+    background-repeat: no-repeat;
+}
+

@@ -1,3 +1,9 @@
-<h1>Welcome to Employee Portal</h1>
-
+<h1 class="header">Welcome to Employee Portal</h1>
+<div class="navbar">
+<ul>
+    <li><a [routerLink]="['/']">Home</a></li>
+    <li><a [routerLink]="['/dashboard']">Dashboard</a></li>
+    <li><a [routerLink]="['/registration']">Registration</a></li>
+</ul>
+</div>
 <router-outlet></router-outlet>
