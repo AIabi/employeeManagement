@@ -13,3 +13,5 @@ Employeemanagementservice is an spring boot application and should be started in
 proxy.conf file in Employeemanagement's app folder for proper communication.
 
 As of now no database has been used, All data are being stored in ArrayList in service so everytime service restarts it will be empty data but same can be used to implement persistence.
+
+The swagger documentationn of the application can be found at http://localhost:8080/swagger-ui.html#
